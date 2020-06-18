@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1SnODj1d6gaVpnBYNCBSq4zfSi6Qm7QmaqNPVe7VUCsfkKocghuKN/lgaxskwH6I89EOHqpRDjYMn2oO30MV8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BORJA\\Documents\\Visual Studio 2019\\Projects\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BORJA\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
