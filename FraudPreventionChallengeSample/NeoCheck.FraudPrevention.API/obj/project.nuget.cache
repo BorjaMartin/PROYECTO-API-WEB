@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "jWTfiT2TtO1Qu6+WPsyw1DvzRIWHht9nFOiFhjjatUJb23UzLTToTh9A2iLZBFUxG/6UUOTVWNql5O7Ue5Rf6w==",
+  "dgSpecHash": "rxfKmIsQ+zFZgjIANHGZo7lCq1CXSpBzK9IsPFz5vt1qTS0QsHpGMaJr438Efc6bipUSabNlen+gG66YIBO9lg==",
   "success": true,
   "projectFilePath": "D:\\Downloads\\PROYECTO API WEB\\FraudPreventionChallengeSample\\NeoCheck.FraudPrevention.API\\NeoCheck.FraudPrevention.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\BORJA\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\BORJA\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
     "C:\\Users\\BORJA\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
     "C:\\Users\\BORJA\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",

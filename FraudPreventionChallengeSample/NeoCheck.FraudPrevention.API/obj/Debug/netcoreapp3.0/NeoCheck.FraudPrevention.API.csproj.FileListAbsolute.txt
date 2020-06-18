@@ -10,11 +10,13 @@ D:\Downloads\PROYECTO API WEB\FraudPreventionChallengeSample\NeoCheck.FraudPreve
 D:\Downloads\PROYECTO API WEB\FraudPreventionChallengeSample\NeoCheck.FraudPrevention.API\obj\Debug\netcoreapp3.0\NeoCheck.FraudPrevention.API.csprojAssemblyReference.cache
 D:\Downloads\PROYECTO API WEB\FraudPreventionChallengeSample\NeoCheck.FraudPrevention.API\obj\Debug\netcoreapp3.0\NeoCheck.FraudPrevention.API.AssemblyInfoInputs.cache
 D:\Downloads\PROYECTO API WEB\FraudPreventionChallengeSample\NeoCheck.FraudPrevention.API\obj\Debug\netcoreapp3.0\NeoCheck.FraudPrevention.API.AssemblyInfo.cs
-D:\Downloads\PROYECTO API WEB\FraudPreventionChallengeSample\NeoCheck.FraudPrevention.API\obj\Debug\netcoreapp3.0\NeoCheck.FraudPrevention.API.csproj.CoreCompileInputs.cache
-D:\Downloads\PROYECTO API WEB\FraudPreventionChallengeSample\NeoCheck.FraudPrevention.API\obj\Debug\netcoreapp3.0\NeoCheck.FraudPrevention.API.MvcApplicationPartsAssemblyInfo.cache
 D:\Downloads\PROYECTO API WEB\FraudPreventionChallengeSample\NeoCheck.FraudPrevention.API\obj\Debug\netcoreapp3.0\NeoCheck.FraudPrevention.API.RazorTargetAssemblyInfo.cache
 D:\Downloads\PROYECTO API WEB\FraudPreventionChallengeSample\NeoCheck.FraudPrevention.API\obj\Debug\netcoreapp3.0\staticwebassets\NeoCheck.FraudPrevention.API.StaticWebAssets.Manifest.cache
 D:\Downloads\PROYECTO API WEB\FraudPreventionChallengeSample\NeoCheck.FraudPrevention.API\obj\Debug\netcoreapp3.0\staticwebassets\NeoCheck.FraudPrevention.API.StaticWebAssets.xml
 D:\Downloads\PROYECTO API WEB\FraudPreventionChallengeSample\NeoCheck.FraudPrevention.API\obj\Debug\netcoreapp3.0\NeoCheck.FraudPrevention.API.dll
 D:\Downloads\PROYECTO API WEB\FraudPreventionChallengeSample\NeoCheck.FraudPrevention.API\obj\Debug\netcoreapp3.0\NeoCheck.FraudPrevention.API.pdb
 D:\Downloads\PROYECTO API WEB\FraudPreventionChallengeSample\NeoCheck.FraudPrevention.API\obj\Debug\netcoreapp3.0\NeoCheck.FraudPrevention.API.genruntimeconfig.cache
+D:\Downloads\PROYECTO API WEB\FraudPreventionChallengeSample\NeoCheck.FraudPrevention.API\obj\Debug\netcoreapp3.0\NeoCheck.FraudPrevention.API.csproj.CoreCompileInputs.cache
+D:\Downloads\PROYECTO API WEB\FraudPreventionChallengeSample\NeoCheck.FraudPrevention.API\obj\Debug\netcoreapp3.0\NeoCheck.FraudPrevention.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Downloads\PROYECTO API WEB\FraudPreventionChallengeSample\NeoCheck.FraudPrevention.API\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\Downloads\PROYECTO API WEB\FraudPreventionChallengeSample\NeoCheck.FraudPrevention.API\obj\Debug\netcoreapp3.0\NeoCheck.FraudPrevention.API.csproj.CopyComplete
