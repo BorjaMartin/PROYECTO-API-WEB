@@ -1,0 +1,72 @@
+﻿{"purchases": [{
+        "orderId": 1,
+        "dealId": 1,
+        "emailAddress": "bugs@bunny.com",
+        "streetAddress": "123 Sesame St.",
+        "city": "New York",
+        "state": "NY",
+        "zipCode": "10011",
+        "creditCardNumber": 12345689010
+    },
+	{
+        "orderId": 2,
+        "dealId": 1,
+        "emailAddress": "elmer@fudd.com",
+        "streetAddress": "123 Sesame St.",
+        "city": "New York",
+        "state": "NY",
+        "zipCode": "10011",
+        "creditCardNumber": 10987654321
+    },
+	{
+        "orderId": 3,
+        "dealId": 2,
+        "emailAddress": "bugs@bunny.com",
+        "streetAddress": "123 Sesame St.",
+        "city": "New York",
+        "state": "NY",
+        "zipCode": "10011",
+        "creditCardNumber": 12345689010
+    },
+    {
+        "orderId": 4,
+        "dealId": 3,
+        "emailAddress": "bugs@bunny.com",
+        "streetAddress": "123 Sesame St.",
+        "city": "New York",
+        "state": "NY",
+        "zipCode": "10011",
+        "creditCardNumber": 12345689010
+    },
+	{
+        "orderId": 5,
+        "dealId": 3,
+        "emailAddress": "bugs+89@bunny.com",
+        "streetAddress": "123 Sesame St.",
+        "city": "New York",
+        "state": "NY",
+        "zipCode": "10011",
+        "creditCardNumber": 10987654321
+    },
+	{
+        "orderId": 6,
+        "dealId": 3,
+        "emailAddress": "OTHER@bunny.com",
+        "streetAddress": "123 Sesame St.",
+        "city": "New York",
+        "state": "NY",
+        "zipCode": "10011",
+        "creditCardNumber": 435345345
+    },
+	{
+        "orderId": 7,
+        "dealId": 3,
+        "emailAddress": "OTHER2@bunny.com",
+        "streetAddress": "123 Sesame StREET",
+        "city": "New York",
+        "state": "NEW YORK",
+        "zipCode": "10011",
+        "creditCardNumber": 345345345
+    }
+]
+}
